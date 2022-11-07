@@ -10,7 +10,7 @@ body{
 	display: flex;
 	background-color: red;
 	border-radius: 100px;
-	width: 1365%;
+	width: 1365px;
 }
 .box-1 input{
 	height: 25px;
