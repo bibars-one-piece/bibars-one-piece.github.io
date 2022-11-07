@@ -6,7 +6,7 @@ body{
 	border-radius: 140px;
 }
 .navigation{
-	flex: 3;
+	flex: 2;
 	display: flex;
 	background-color: red;
 	border-radius: 100px;
