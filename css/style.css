@@ -4,6 +4,7 @@ body{
 }
 .icon{
 	border-radius: 140px;
+	margin: 10px;
 }
 .navigation{
 	display: flex;
