@@ -4,13 +4,16 @@ body{
 }
 .icon{
 	border-radius: 140px;
+	flex: 1;
+}
 }
 .navigation{
-	flex: 2;
 	display: flex;
 	background-color: red;
 	border-radius: 100px;
-	width: 1365px;
+}
+.navigation div{
+	width: 370px;
 }
 .box-1 input{
 	height: 25px;
@@ -30,7 +33,7 @@ body{
   border-radius: 42px;
 }
 .d7 {
-	flex: 2;
+	flex: 3;
 }
 .box-4{
 	background-color:#FF8F6B;
