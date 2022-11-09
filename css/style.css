@@ -2,7 +2,7 @@
 	cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym57.cur), auto !important;
 }
 ::-webkit-scrollbar{
-	width: 15px;
+	width: 10px;
 }
 ::-webkit-scrollbar-track{
 	background: red;
