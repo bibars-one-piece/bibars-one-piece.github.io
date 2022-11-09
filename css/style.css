@@ -1,3 +1,16 @@
+*{
+	cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym57.cur), auto !important;
+}
+::-webkit-scrollbar{
+	width: 15px;
+}
+::-webkit-scrollbar-track{
+	background: red;
+}
+::-webkit-scrollbar-thumb{
+	background: #000;
+	border-radius: 13px;
+}
 body{
 	font-family: arial;
 	background-color: #C8C8C8;
